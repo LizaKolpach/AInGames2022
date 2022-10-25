@@ -1,0 +1,1182 @@
+﻿Log file open, 10/24/22 15:57:21
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogProfilingDebugging: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogWindows: Started CrashReportClient (pid=3292)
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: GetOutOfMyDungeon
+LogCore: UnrealTraceServer: Trace store launch successful
+LogCsvProfiler: Display: Metadata set : platform="Windows"
+LogCsvProfiler: Display: Metadata set : config="Development"
+LogCsvProfiler: Display: Metadata set : buildversion="++UE5+Release-5.0-CL-20280985"
+LogCsvProfiler: Display: Metadata set : engineversion="5.0.2-20280985+++UE5+Release-5.0"
+LogCsvProfiler: Display: Metadata set : commandline="" C:\Users\fsumm\Documents\GitHub\AInGames2022\GetOutOfMyDungeon\GetOutOfMyDungeon.uproject""
+LogCsvProfiler: Display: Metadata set : os="Windows 11 (21H2) [10.0.22000.978] "
+LogCsvProfiler: Display: Metadata set : cpu="GenuineIntel|Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz"
+LogCsvProfiler: Display: Metadata set : pgoenabled="0"
+LogCsvProfiler: Display: Metadata set : loginid="f649620041673d27f0b0a696f87dd28f"
+LogCsvProfiler: Display: Metadata set : llm="0"
+LogPlatformFile: Not using cached read wrapper
+LogStats: Stats thread started at 0.311997
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +1:00, Platform Override: ''
+LogInit: Session CrashGUID >====================================================
+         Session CrashGUID >   UECC-Windows-75598C1448C19B436E206ABB03B627FB
+         Session CrashGUID >====================================================
+LogConfig: Display: Loading Android ini files took 0.04 seconds
+LogConfig: Display: Loading Mac ini files took 0.04 seconds
+LogConfig: Display: Loading HoloLens ini files took 0.04 seconds
+LogConfig: Display: Loading IOS ini files took 0.04 seconds
+LogConfig: Display: Loading Unix ini files took 0.05 seconds
+LogConfig: Display: Loading TVOS ini files took 0.05 seconds
+LogConfig: Display: Loading LinuxArm64 ini files took 0.06 seconds
+LogConfig: Display: Loading Linux ini files took 0.06 seconds
+LogConfig: Display: Loading VulkanPC ini files took 0.03 seconds
+LogConfig: Display: Loading Windows ini files took 0.04 seconds
+LogPluginManager: Mounting Engine plugin Bridge
+LogPluginManager: Mounting Engine plugin FastBuildController
+LogPluginManager: Mounting Engine plugin MeshPainting
+LogPluginManager: Mounting Engine plugin XGEController
+LogPluginManager: Mounting Engine plugin Paper2D
+LogPluginManager: Mounting Engine plugin ControlRig
+LogPluginManager: Mounting Engine plugin CameraShakePreviewer
+LogPluginManager: Mounting Engine plugin BlendSpaceMotionAnalysis
+LogPluginManager: Mounting Engine plugin AnimationModifierLibrary
+LogPluginManager: Mounting Engine plugin ControlRigSpline
+LogPluginManager: Mounting Engine plugin IKRig
+LogPluginManager: Mounting Engine plugin GameplayCameras
+LogPluginManager: Mounting Engine plugin OodleNetwork
+LogPluginManager: Mounting Engine plugin AISupport
+LogPluginManager: Mounting Engine plugin EnvironmentQueryEditor
+LogPluginManager: Mounting Engine plugin Niagara
+LogPluginManager: Mounting Engine plugin DatasmithContent
+LogPluginManager: Mounting Engine plugin VariantManagerContent
+LogPluginManager: Mounting Engine plugin AlembicImporter
+LogPluginManager: Mounting Engine plugin AndroidMedia
+LogPluginManager: Mounting Engine plugin AvfMedia
+LogPluginManager: Mounting Engine plugin ImgMedia
+LogPluginManager: Mounting Engine plugin MediaCompositing
+LogPluginManager: Mounting Engine plugin MediaPlayerEditor
+LogPluginManager: Mounting Engine plugin WebMMedia
+LogPluginManager: Mounting Engine plugin WmfMedia
+LogPluginManager: Mounting Engine plugin ActorSequence
+LogPluginManager: Mounting Engine plugin LevelSequenceEditor
+LogPluginManager: Mounting Engine plugin MatineeToLevelSequence
+LogPluginManager: Mounting Engine plugin SequencerScripting
+LogPluginManager: Mounting Engine plugin TemplateSequence
+LogPluginManager: Mounting Engine plugin AnimationSharing
+LogPluginManager: Mounting Engine plugin CLionSourceCodeAccess
+LogPluginManager: Mounting Engine plugin GitSourceControl
+LogPluginManager: Mounting Engine plugin PerforceSourceControl
+LogPluginManager: Mounting Engine plugin PixWinPlugin
+LogPluginManager: Mounting Engine plugin PlasticSourceControl
+LogPluginManager: Mounting Engine plugin PluginUtils
+LogPluginManager: Mounting Engine plugin PropertyAccessNode
+LogPluginManager: Mounting Engine plugin RiderSourceCodeAccess
+LogPluginManager: Mounting Engine plugin SubversionSourceControl
+LogPluginManager: Mounting Engine plugin TextureFormatOodle
+LogPluginManager: Mounting Engine plugin TraceDataFilters
+LogPluginManager: Mounting Engine plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting Engine plugin LauncherChunkInstaller
+LogPluginManager: Mounting Engine plugin UObjectPlugin
+LogPluginManager: Mounting Engine plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting Engine plugin NullSourceCodeAccess
+LogPluginManager: Mounting Engine plugin OnlineBase
+LogPluginManager: Mounting Engine plugin OnlineSubsystem
+LogPluginManager: Mounting Engine plugin OnlineSubsystemNull
+LogPluginManager: Mounting Engine plugin OnlineSubsystemUtils
+LogPluginManager: Mounting Engine plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting Engine plugin TcpMessaging
+LogPluginManager: Mounting Engine plugin UdpMessaging
+LogPluginManager: Mounting Engine plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting Engine plugin AssetManagerEditor
+LogPluginManager: Mounting Engine plugin CryptoKeys
+LogPluginManager: Mounting Engine plugin DataValidation
+LogPluginManager: Mounting Engine plugin EditorDebugTools
+LogPluginManager: Mounting Engine plugin CurveEditorTools
+LogPluginManager: Mounting Engine plugin GeometryMode
+LogPluginManager: Mounting Engine plugin GameplayTagsEditor
+LogPluginManager: Mounting Engine plugin FacialAnimation
+LogPluginManager: Mounting Engine plugin MaterialAnalyzer
+LogPluginManager: Mounting Engine plugin EditorScriptingUtilities
+LogPluginManager: Mounting Engine plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting Engine plugin PluginBrowser
+LogPluginManager: Mounting Engine plugin SequencerAnimTools
+LogPluginManager: Mounting Engine plugin SpeedTreeImporter
+LogPluginManager: Mounting Engine plugin MacGraphicsSwitching
+LogPluginManager: Mounting Engine plugin WorldPartitionHLODUtilities
+LogPluginManager: Mounting Engine plugin ModelingToolsEditorMode
+LogPluginManager: Mounting Engine plugin StylusInput
+LogPluginManager: Mounting Engine plugin AutomationUtils
+LogPluginManager: Mounting Engine plugin BackChannel
+LogPluginManager: Mounting Engine plugin ChaosCloth
+LogPluginManager: Mounting Engine plugin ChaosClothEditor
+LogPluginManager: Mounting Engine plugin ChaosEditor
+LogPluginManager: Mounting Engine plugin ChaosNiagara
+LogPluginManager: Mounting Engine plugin ChaosSolverPlugin
+LogPluginManager: Mounting Engine plugin CharacterAI
+LogPluginManager: Mounting Engine plugin ActorLayerUtilities
+LogPluginManager: Mounting Engine plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin AndroidFileServer
+LogPluginManager: Mounting Engine plugin AndroidMoviePlayer
+LogPluginManager: Mounting Engine plugin AndroidPermission
+LogPluginManager: Mounting Engine plugin AppleImageUtils
+LogPluginManager: Mounting Engine plugin ArchVisCharacter
+LogPluginManager: Mounting Engine plugin AssetTags
+LogPluginManager: Mounting Engine plugin AudioCapture
+LogPluginManager: Mounting Engine plugin AudioSynesthesia
+LogPluginManager: Mounting Engine plugin ChunkDownloader
+LogPluginManager: Mounting Engine plugin CableComponent
+LogPluginManager: Mounting Engine plugin CustomMeshComponent
+LogPluginManager: Mounting Engine plugin AppleMoviePlayer
+LogPluginManager: Mounting Engine plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin FullBodyIK
+LogPluginManager: Mounting Engine plugin GeometryCollectionPlugin
+LogPluginManager: Mounting Engine plugin GeometryFlow
+LogPluginManager: Mounting Engine plugin MeshLODToolset
+LogPluginManager: Mounting Engine plugin MeshModelingToolsetExp
+LogPluginManager: Mounting Engine plugin OpenImageDenoise
+LogPluginManager: Mounting Engine plugin PlanarCut
+LogPluginManager: Mounting Engine plugin PlatformCrypto
+LogPluginManager: Mounting Engine plugin ProxyLODPlugin
+LogPluginManager: Mounting Engine plugin PythonScriptPlugin
+LogPluginManager: Mounting Engine plugin SkeletalReduction
+LogPluginManager: Mounting Engine plugin GeometryCache
+LogPluginManager: Mounting Engine plugin GeometryProcessing
+LogPluginManager: Mounting Engine plugin GooglePAD
+LogPluginManager: Mounting Engine plugin HairStrands
+LogPluginManager: Mounting Engine plugin LocationServicesBPLibrary
+LogPluginManager: Mounting Engine plugin GoogleCloudMessaging
+LogPluginManager: Mounting Engine plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MeshModelingToolset
+LogPluginManager: Mounting Engine plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin MobilePatchingUtils
+LogPluginManager: Mounting Engine plugin ProceduralMeshComponent
+LogPluginManager: Mounting Engine plugin PropertyAccessEditor
+LogPluginManager: Mounting Engine plugin ResonanceAudio
+LogPluginManager: Mounting Engine plugin RuntimePhysXCooking
+LogPluginManager: Mounting Engine plugin SignificanceManager
+LogPluginManager: Mounting Engine plugin SoundFields
+LogPluginManager: Mounting Engine plugin Synthesis
+LogPluginManager: Mounting Engine plugin WebMMoviePlayer
+LogPluginManager: Mounting Engine plugin WindowsDeviceProfileSelector
+LogPluginManager: Mounting Engine plugin WindowsMoviePlayer
+LogPluginManager: Mounting Engine plugin OnlineServices
+LogPluginManager: Mounting Engine plugin OnlineSubsystemIOS
+LogPluginManager: Mounting Engine plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting Engine plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserFileDataSource
+LogPluginManager: Mounting Engine plugin ContentBrowserClassDataSource
+LogPluginManager: Mounting Engine plugin InterchangeEditor
+LogPluginManager: Mounting Engine plugin Interchange
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Bridge/Content/' mounted to '/Bridge/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/2D/Paper2D/Content/' mounted to '/Paper2D/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRig/Content/' mounted to '/ControlRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/ControlRigSpline/Content/' mounted to '/ControlRigSpline/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Animation/IKRig/Content/' mounted to '/IKRig/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/FX/Niagara/Content/' mounted to '/Niagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Enterprise/DatasmithContent/Content/' mounted to '/DatasmithContent/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Media/MediaCompositing/Content/' mounted to '/MediaCompositing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/MovieScene/SequencerScripting/Content/' mounted to '/SequencerScripting/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Developer/AnimationSharing/Content/' mounted to '/AnimationSharing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/GeometryMode/Content/' mounted to '/GeometryMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/SpeedTreeImporter/Content/' mounted to '/SpeedTreeImporter/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Editor/ModelingToolsEditorMode/Content/' mounted to '/ModelingToolsEditorMode/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosClothEditor/Content/' mounted to '/ChaosClothEditor/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosNiagara/Content/' mounted to '/ChaosNiagara/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/ChaosSolverPlugin/Content/' mounted to '/ChaosSolverPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/AudioSynesthesia/Content/' mounted to '/AudioSynesthesia/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/FullBodyIK/Content/' mounted to '/FullBodyIK/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryCollectionPlugin/Content/' mounted to '/GeometryCollectionPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/GeometryFlow/Content/' mounted to '/GeometryFlow/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshLODToolset/Content/' mounted to '/MeshLODToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/MeshModelingToolsetExp/Content/' mounted to '/MeshModelingToolsetExp/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Experimental/PythonScriptPlugin/Content/' mounted to '/PythonScriptPlugin/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/GeometryProcessing/Content/' mounted to '/GeometryProcessing/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/HairStrands/Content/' mounted to '/HairStrands/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/MeshModelingToolset/Content/' mounted to '/MeshModelingToolset/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/ResonanceAudio/Content/' mounted to '/ResonanceAudio/'
+LogPackageName: Display: FPackageName: Mount point added: '../../Plugins/Runtime/Synthesis/Content/' mounted to '/Synthesis/'
+SourceControl: Source control is disabled
+SourceControl: Source control is disabled
+PixWinPlugin: PIX capture plugin failed to initialize! Check that the process is launched from PIX.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: Created online subsystem instance for: NULL
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE5+Release-5.0-CL-20280985
+LogInit: Engine Version: 5.0.2-20280985+++UE5+Release-5.0
+LogInit: Compatible Engine Version: 5.0.0-19505902+++UE5+Release-5.0
+LogInit: Net CL: 19505902
+LogInit: OS: Windows 11 (21H2) [10.0.22000.978] (), CPU: Intel(R) Core(TM) i7-10750H CPU @ 2.60GHz, GPU: Intel(R) UHD Graphics
+LogInit: Compiled (64-bit): May 20 2022 15:42:17
+LogInit: Compiled with Visual C++: 19.29.30138.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE5+Release-5.0
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_5.0/Engine/Binaries/Win64/
+LogInit: Allocator: Mimalloc
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 34
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 20
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 45
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 13
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 59
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 3
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 41
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   UE5-Main (697DD581-E64F-41AB-AA4A-51ECBEB7B628): 59
+LogDevObjectVersion:   UE5-Release (D89B5E42-24BD-4D46-8412-ACA8DF641779): 36
+LogDevObjectVersion:   UE5-PrivateFrosty (59DA5D52-1232-4948-B878-597870B8E98B): 8
+LogDevObjectVersion:   UE5-Dev-Cooker (26075A32-730F-4708-88E9-8C32F1599D05): 0
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogDevObjectVersion:   UE5-Dev-LWCRendering (30D58BE3-95EA-4282-A6E3-B159D8EBB06A): 1
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: CVar [[con.DebugLateDefault:1]] deferred - dummy variable created
+LogConfig: CVar [[con.DebugLateCheat:1]] deferred - dummy variable created
+LogConfig: CVar [[r.DetectAndWarnOfBadDrivers:0]] deferred - dummy variable created
+LogConfig: CVar [[LogNamedEventFilters:Frame *]] deferred - dummy variable created
+LogConfig: CVar [[framepro.ScopeMinTimeMicroseconds:10]] deferred - dummy variable created
+LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [Engine]
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[VisualizeCalibrationColorMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationColor.PPM_DefaultCalibrationColor]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[VisualizeCalibrationGrayscaleMaterialPath:/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale.PPM_DefaultCalibrationGrayscale]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[MaxSkinBones:(Default=65536,PerPlatform=(("Mobile", 256)))]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [Engine]
+[2022.10.24-13.57.22:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [Engine]
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[s.MaxPackageSummarySize:16384]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__SoundBase]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__MaterialInterface]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[FixedBootOrder:/Script/Engine/Default__DeviceProfileManager]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [Engine]
+[2022.10.24-13.57.22:315][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [Engine]
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Average",ToolTip="Simulates average internet conditions")]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[NetworkEmulationProfiles:(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [Engine]
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[DefaultPVRTCQuality:1]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[DefaultASTCQualityBySpeed:1]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[DefaultASTCQualityBySize:3]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GroupActor]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MetaData]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ObjectRedirector]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NavMeshRenderingComponent]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ReflectionCaptureComponent]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:TextRenderComponent]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:Font]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MaterialExpression]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraEmitter]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:NiagaraScript]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleEmitter]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleLODLevel]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:ParticleModule]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SubUVAnimation]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:SoundNode]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedServer:GameplayEffectUIData]] deferred - dummy variable created
+[2022.10.24-13.57.22:315][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:WidgetBlueprint]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:GroupActor]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MetaData]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:ObjectRedirector]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:InterpCurveEdSetup]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[ClassesExcludedOnDedicatedClient:MatineeActorCameraAnim]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.AllowStaticLighting]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.GBuffer]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.VelocityOutputPass]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.SelectiveBasePassOutputs]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.DBuffer]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Symbols]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.GenerateSymbols]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.WriteSymbols]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.AllowUniqueSymbols]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.ExtraData]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.Shaders.Optimize]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.CompileShadersForDevelopment]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.MobileHDR]] deferred - dummy variable created
+[2022.10.24-13.57.22:316][  0]LogConfig: CVar [[VersionedIntRValues:r.UsePreExposure]] deferred - dummy variable created
+[2022.10.24-13.57.22:318][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [Scalability]
+[2022.10.24-13.57.22:318][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [Scalability]
+[2022.10.24-13.57.22:318][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [Scalability]
+[2022.10.24-13.57.22:319][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@3] File [Scalability]
+[2022.10.24-13.57.22:319][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@3] File [Scalability]
+[2022.10.24-13.57.22:319][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [Scalability]
+[2022.10.24-13.57.22:319][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [Scalability]
+[2022.10.24-13.57.22:319][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [Scalability]
+[2022.10.24-13.57.22:319][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [Scalability]
+[2022.10.24-13.57.22:319][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [Scalability]
+[2022.10.24-13.57.22:319][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:0]] deferred - dummy variable created
+[2022.10.24-13.57.22:342][  0]LogD3D12RHI: Aftermath initialized
+[2022.10.24-13.57.22:342][  0]LogD3D12RHI: Loading WinPixEventRuntime.dll for PIX profiling (from ../../../Engine/Binaries/ThirdParty/Windows/WinPixEventRuntime/x64).
+[2022.10.24-13.57.22:601][  0]LogD3D12RHI: Found D3D12 adapter 0: NVIDIA GeForce GTX 1650 Ti (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.24-13.57.22:601][  0]LogD3D12RHI: Adapter has 3962MB of dedicated video memory, 0MB of dedicated system memory, and 8125MB of shared system memory, 1 output[s]
+[2022.10.24-13.57.22:698][  0]LogD3D12RHI: Found D3D12 adapter 1: Intel(R) UHD Graphics (Max supported Feature Level 12_1, shader model 6.6)
+[2022.10.24-13.57.22:698][  0]LogD3D12RHI: Adapter has 128MB of dedicated video memory, 0MB of dedicated system memory, and 8125MB of shared system memory, 0 output[s]
+[2022.10.24-13.57.22:718][  0]LogD3D12RHI: Found D3D12 adapter 2: Microsoft Basic Render Driver (Max supported Feature Level 12_1, shader model 6.2)
+[2022.10.24-13.57.22:718][  0]LogD3D12RHI: Adapter has 0MB of dedicated video memory, 0MB of dedicated system memory, and 8125MB of shared system memory, 0 output[s]
+[2022.10.24-13.57.22:719][  0]LogD3D12RHI: Chosen D3D12 Adapter Id = 0
+[2022.10.24-13.57.22:719][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.24-13.57.22:719][  0]LogDeviceProfileManager: Applying CVar settings loaded from the selected device profile: [WindowsEditor]
+[2022.10.24-13.57.22:720][  0]LogHAL: Display: Platform has ~ 16 GB [17041244160 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2022.10.24-13.57.22:720][  0]LogDeviceProfileManager: Going up to parent DeviceProfile [Windows]
+[2022.10.24-13.57.22:720][  0]LogDeviceProfileManager: Going up to parent DeviceProfile []
+[2022.10.24-13.57.22:720][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@0] File [Scalability]
+[2022.10.24-13.57.22:720][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@0] File [Scalability]
+[2022.10.24-13.57.22:720][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@0] File [Scalability]
+[2022.10.24-13.57.22:720][  0]LogConfig: Applying CVar settings from Section [GlobalIlluminationQuality@0] File [Scalability]
+[2022.10.24-13.57.22:720][  0]LogConfig: Applying CVar settings from Section [ReflectionQuality@0] File [Scalability]
+[2022.10.24-13.57.22:720][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@0] File [Scalability]
+[2022.10.24-13.57.22:720][  0]LogConfig: Applying CVar settings from Section [TextureQuality@0] File [Scalability]
+[2022.10.24-13.57.22:720][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@0] File [Scalability]
+[2022.10.24-13.57.22:721][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@0] File [Scalability]
+[2022.10.24-13.57.22:721][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@0] File [Scalability]
+[2022.10.24-13.57.22:721][  0]LogConfig: CVar [[r.HairStrands.Interpolation.UseSingleGuide:1]] deferred - dummy variable created
+[2022.10.24-13.57.22:721][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2022.10.24-13.57.22:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [Engine]
+[2022.10.24-13.57.22:722][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/Config/WindowsEditor/Editor.ini]
+[2022.10.24-13.57.22:723][  0]LogInit: Computer: LAPTOP-5HR6STAG
+[2022.10.24-13.57.22:723][  0]LogInit: User: fsumm
+[2022.10.24-13.57.22:723][  0]LogInit: CPU Page size=4096, Cores=6
+[2022.10.24-13.57.22:723][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2022.10.24-13.57.22:723][  0]LogMemory: Memory total: Physical=15.9GB (16GB approx)
+[2022.10.24-13.57.22:723][  0]LogMemory: Platform Memory Stats for WindowsEditor
+[2022.10.24-13.57.22:723][  0]LogMemory: Process Physical Memory: 278.95 MB used, 280.66 MB peak
+[2022.10.24-13.57.22:723][  0]LogMemory: Process Virtual Memory: 236.86 MB used, 236.86 MB peak
+[2022.10.24-13.57.22:723][  0]LogMemory: Physical Memory: 14449.95 MB used,  1801.85 MB free, 16251.80 MB total
+[2022.10.24-13.57.22:723][  0]LogMemory: Virtual Memory: 32504.82 MB used,  7749.17 MB free, 40253.98 MB total
+[2022.10.24-13.57.22:723][  0]LogCsvProfiler: Display: Metadata set : extradevelopmentmemorymb="0"
+[2022.10.24-13.57.22:728][  0]LogWindows: WindowsPlatformFeatures enabled
+[2022.10.24-13.57.22:750][  0]LogInit: Physics initialised using underlying interface: Chaos
+[2022.10.24-13.57.22:752][  0]LogInit: Using OS detected language (en-US).
+[2022.10.24-13.57.22:752][  0]LogInit: Using OS detected locale (en-NL).
+[2022.10.24-13.57.22:766][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so 'en' will be used for the language.
+[2022.10.24-13.57.22:974][  0]LogInit: Setting process to per monitor DPI aware
+[2022.10.24-13.57.22:987][  0]LogWindowsTextInputMethodSystem: Available input methods:
+[2022.10.24-13.57.22:987][  0]LogWindowsTextInputMethodSystem:   - English (United States) - (Keyboard).
+[2022.10.24-13.57.22:987][  0]LogWindowsTextInputMethodSystem:   - English (United Kingdom) - (Keyboard).
+[2022.10.24-13.57.22:987][  0]LogWindowsTextInputMethodSystem:   - English (Netherlands) - Touch Input Correction (TSF IME).
+[2022.10.24-13.57.22:987][  0]LogWindowsTextInputMethodSystem: Activated input method: English (United States) - (Keyboard).
+[2022.10.24-13.57.23:011][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2022.10.24-13.57.23:011][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2022.10.24-13.57.23:244][  0]LogD3D12RHI: InitD3DDevice: -D3DDebug = off -D3D12GPUValidation = off
+[2022.10.24-13.57.23:246][  0]LogD3D12RHI: [Aftermath] Aftermath crash dumping enabled
+[2022.10.24-13.57.23:246][  0]LogD3D12RHI: Emitting draw events for PIX profiling.
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: [Aftermath] Aftermath enabled and primed
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: [Aftermath] Aftermath resource tracking enabled
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: ID3D12Device1 is supported.
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: ID3D12Device2 is supported.
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: ID3D12Device3 is supported.
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: ID3D12Device4 is supported.
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: ID3D12Device5 is supported.
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: ID3D12Device6 is supported.
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: ID3D12Device7 is supported.
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: Mesh shader tier 1.0 is supported
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: AtomicInt64OnTypedResource is supported
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: AtomicInt64OnGroupShared is supported
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: AtomicInt64OnDescriptorHeapResource is supported
+[2022.10.24-13.57.23:312][  0]LogD3D12RHI: Shader Model 6.6 atomic64 is supported
+[2022.10.24-13.57.23:366][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for 3D Queue 0
+[2022.10.24-13.57.23:374][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Copy Queue 0
+[2022.10.24-13.57.23:396][  0]LogD3D12RHI: [GPUBreadCrumb] Successfully setup breadcrumb resource for Compute Queue 0
+[2022.10.24-13.57.23:411][  0]LogD3D12RHI: Display: Not using pipeline state disk cache per r.D3D12.PSO.DiskCache=0
+[2022.10.24-13.57.23:411][  0]LogD3D12RHI: Display: Not using driver-optimized pipeline state disk cache per r.D3D12.PSO.DriverOptimizedDiskCache=0
+[2022.10.24-13.57.23:454][  0]LogD3D12RHI:     GPU DeviceId: 0x1f95 (for the marketing name, search the web for "GPU Device Id")
+[2022.10.24-13.57.23:454][  0]LogWindows: Attached monitors:
+[2022.10.24-13.57.23:454][  0]LogWindows:     resolution: 1920x1080, work area: (0, 0) -> (1920, 1032), device: '\\.\DISPLAY1' [PRIMARY]
+[2022.10.24-13.57.23:454][  0]LogWindows: Found 1 attached monitors.
+[2022.10.24-13.57.23:454][  0]LogWindows: EnumDisplayDevices:
+[2022.10.24-13.57.23:454][  0]LogWindows:    0. 'Intel(R) UHD Graphics' (P:1 D:1), name: '\\.\DISPLAY1'
+[2022.10.24-13.57.23:454][  0]LogWindows:    1. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY2'
+[2022.10.24-13.57.23:454][  0]LogWindows:    2. 'Intel(R) UHD Graphics' (P:0 D:0), name: '\\.\DISPLAY3'
+[2022.10.24-13.57.23:454][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1650 Ti' (P:0 D:0), name: '\\.\DISPLAY4'
+[2022.10.24-13.57.23:454][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2022.10.24-13.57.23:454][  0]LogD3D12RHI:     Adapter Name: NVIDIA GeForce GTX 1650 Ti
+[2022.10.24-13.57.23:454][  0]LogD3D12RHI:   Driver Version: 511.79 (internal:30.0.15.1179, unified:511.79)
+[2022.10.24-13.57.23:454][  0]LogD3D12RHI:      Driver Date: 2-10-2022
+[2022.10.24-13.57.23:455][  0]LogRHI: Texture pool is 2121 MB (70% of 3030 MB)
+[2022.10.24-13.57.23:455][  0]LogD3D12RHI: Async texture creation enabled
+[2022.10.24-13.57.23:455][  0]LogD3D12RHI: RHI has support for 64 bit atomics
+[2022.10.24-13.57.23:479][  0]LogRHI: GeForceNow SDK initialized: 0
+[2022.10.24-13.57.23:486][  0]LogTurnkeySupport: Running Turnkey SDK detection: ' -ScriptsForProject="C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/GetOutOfMyDungeon.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Intermediate/TurnkeyReport_0.log" -log="C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Intermediate/TurnkeyLog_0.log" -project="C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/GetOutOfMyDungeon.uproject"  -platform=all'
+[2022.10.24-13.57.23:487][  0]LogMonitoredProcess: Running Serialized UAT: [ cmd.exe /c ""C:/Program Files/Epic Games/UE_5.0/Engine/Build/BatchFiles/RunUAT.bat"  -ScriptsForProject="C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/GetOutOfMyDungeon.uproject" Turnkey -utf8output -WaitForUATMutex -command=VerifySdk -ReportFilename="C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Intermediate/TurnkeyReport_0.log" -log="C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Intermediate/TurnkeyLog_0.log" -project="C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/GetOutOfMyDungeon.uproject"  -platform=all" ]
+[2022.10.24-13.57.23:509][  0]LogTextureFormatETC2: Display: ETC2 Texture loading DLL: TextureConverter.dll
+[2022.10.24-13.57.23:520][  0]LogTextureFormatOodle: Display: Oodle Texture TFO init; latest sdk version = 2.9.5
+[2022.10.24-13.57.23:520][  0]LogTextureFormatOodle: Display: Oodle Texture loading DLL: oo2tex_win64_2.9.5.dll
+[2022.10.24-13.57.23:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2022.10.24-13.57.23:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2022.10.24-13.57.23:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2022.10.24-13.57.23:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2022.10.24-13.57.23:529][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2022.10.24-13.57.23:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2022.10.24-13.57.23:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2022.10.24-13.57.23:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2022.10.24-13.57.23:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2022.10.24-13.57.23:530][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2022.10.24-13.57.23:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLens'
+[2022.10.24-13.57.23:551][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'HoloLensClient'
+[2022.10.24-13.57.23:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2022.10.24-13.57.23:556][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2022.10.24-13.57.23:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2022.10.24-13.57.23:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxEditor'
+[2022.10.24-13.57.23:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2022.10.24-13.57.23:559][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2022.10.24-13.57.23:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64'
+[2022.10.24-13.57.23:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Server'
+[2022.10.24-13.57.23:562][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxArm64Client'
+[2022.10.24-13.57.23:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2022.10.24-13.57.23:565][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2022.10.24-13.57.23:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2022.10.24-13.57.23:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsEditor'
+[2022.10.24-13.57.23:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2022.10.24-13.57.23:570][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2022.10.24-13.57.23:570][  0]LogTargetPlatformManager: Display: Building Assets For WindowsEditor
+[2022.10.24-13.57.23:578][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2022.10.24-13.57.23:580][  0]LogTargetPlatformManager: Unable to find audio format BINKA from hinted modules, loading all potential format modules to find it
+[2022.10.24-13.57.23:580][  0]LogTargetPlatformManager: Loaded format module AudioFormatADPCM
+[2022.10.24-13.57.23:580][  0]LogTargetPlatformManager:   ADPCM
+[2022.10.24-13.57.23:580][  0]LogTargetPlatformManager:   PCM
+[2022.10.24-13.57.23:582][  0]LogTargetPlatformManager: Loaded format module AudioFormatBink
+[2022.10.24-13.57.23:582][  0]LogTargetPlatformManager:   BINKA
+[2022.10.24-13.57.23:582][  0]LogTargetPlatformManager: Loaded format module AudioFormatOgg
+[2022.10.24-13.57.23:582][  0]LogTargetPlatformManager:   OGG
+[2022.10.24-13.57.23:582][  0]LogTargetPlatformManager: Loaded format module AudioFormatOpus
+[2022.10.24-13.57.23:582][  0]LogTargetPlatformManager:   OPUS
+[2022.10.24-13.57.23:682][  0]LogTargetPlatformManager: Unable to find shader format SF_METAL from hinted modules, loading all potential format modules to find it
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager: Loaded format module MetalShaderFormat
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   SF_METAL
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   SF_METAL_MRT
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   SF_METAL_TVOS
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   SF_METAL_MRT_TVOS
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   SF_METAL_SM5
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   SF_METAL_MACES3_1
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   SF_METAL_MRT_MAC
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager: Loaded format module ShaderFormatD3D
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   PCD3D_SM6
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   PCD3D_SM5
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   PCD3D_ES31
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   D3D_ES3_1_HOLOLENS
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager: Loaded format module ShaderFormatOpenGL
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   GLSL_150_ES31
+[2022.10.24-13.57.23:689][  0]LogTargetPlatformManager:   GLSL_ES3_1_ANDROID
+[2022.10.24-13.57.23:693][  0]LogTargetPlatformManager: Loaded format module ShaderFormatVectorVM
+[2022.10.24-13.57.23:693][  0]LogTargetPlatformManager:   VVM_1_0
+[2022.10.24-13.57.23:693][  0]LogTargetPlatformManager: Loaded format module VulkanShaderFormat
+[2022.10.24-13.57.23:693][  0]LogTargetPlatformManager:   SF_VULKAN_SM5
+[2022.10.24-13.57.23:693][  0]LogTargetPlatformManager:   SF_VULKAN_ES31_ANDROID
+[2022.10.24-13.57.23:693][  0]LogTargetPlatformManager:   SF_VULKAN_ES31
+[2022.10.24-13.57.23:693][  0]LogTargetPlatformManager:   SF_VULKAN_SM5_ANDROID
+[2022.10.24-13.57.23:694][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2022.10.24-13.57.23:696][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Intermediate/ShaderAutogen/PCD3D_SM5/AutogenShaderHeaders.ush
+[2022.10.24-13.57.23:700][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.24-13.57.23:700][  0]LogShaderCompilers: Display: Compiling shader autogen file: ../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Intermediate/ShaderAutogen/PCD3D_ES31/AutogenShaderHeaders.ush
+[2022.10.24-13.57.23:704][  0]LogShaderCompilers: Display: Autogen file is unchanged, skipping write.
+[2022.10.24-13.57.23:709][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2022.10.24-13.57.23:709][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchy Hierarchy.
+[2022.10.24-13.57.23:709][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.24-13.57.23:709][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchy Hierarchy.
+[2022.10.24-13.57.23:728][  0]LogDerivedDataCache: Display: ../../../Engine/DerivedDataCache/Compressed.ddp: Opened pak cache for reading. (1096 MiB)
+[2022.10.24-13.57.23:729][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2022.10.24-13.57.23:729][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchy Hierarchy.
+[2022.10.24-13.57.23:742][  0]LogDerivedDataCache: Speed tests for C:/Users/fsumm/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2022.10.24-13.57.23:742][  0]LogDerivedDataCache: Display: Performance to C:/Users/fsumm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.25ms. RandomReadSpeed=186.62MBs, RandomWriteSpeed=202.60MBs. Assigned SpeedClass 'Local'
+[2022.10.24-13.57.23:743][  0]LogDerivedDataCache: Using Local data cache path C:/Users/fsumm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2022.10.24-13.57.23:743][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2022.10.24-13.57.23:743][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchy Hierarchy.
+[2022.10.24-13.57.23:749][  0]LogVirtualization: VirtualizationSystem name found in ini file: None
+[2022.10.24-13.57.23:749][  0]LogVirtualization: FNullVirtualizationSystem mounted, virtualization will be disabled
+[2022.10.24-13.57.23:753][  0]LogShaderCompilers: Guid format shader working directory is -32 characters bigger than the processId version (../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Intermediate/Shaders/WorkingDirectory/25120/).
+[2022.10.24-13.57.23:754][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/fsumm/AppData/Local/Temp/UnrealShaderWorkingDir/18168DC94E99B88AEA76BAA33D239278/'.
+[2022.10.24-13.57.23:754][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2022.10.24-13.57.23:754][  0]LogShaderCompilers: Display: Using Local Shader Compiler with 9 workers.
+[2022.10.24-13.57.25:299][  0]LogSlate: Using FreeType 2.10.0
+[2022.10.24-13.57.25:299][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2022.10.24-13.57.25:343][  0]LogAssetRegistry: FAssetRegistry took 0.0157 seconds to start up
+[2022.10.24-13.57.25:348][  0]LogEditorDomain: Display: EditorDomain is Disabled
+[2022.10.24-13.57.25:616][  0]LogSerialization: UsePackageTrailer: 'false'
+[2022.10.24-13.57.25:621][  0]LogTexture: Display: Texture Encode Speed: FinalIfAvailable (editor).
+[2022.10.24-13.57.25:916][  0]LogInit: Selected Device Profile: [WindowsEditor]
+[2022.10.24-13.57.25:916][  0]LogDeviceProfileManager: Active device profile: [00000A0E2A07EFC0][00000A0E1EF50000 50] WindowsEditor
+[2022.10.24-13.57.25:916][  0]LogDeviceProfileManager: Profiles: [00000A0E2A07EA80][00000A0E11640000 50] Windows, [00000A0E2A07EFC0][00000A0E1EF50000 50] WindowsEditor, [00000A0E2A07DC80][00000A0E2A500000 50] WindowsServer, [00000A0E2A07B0C0][00000A0E2A505000 50] WindowsClient, [00000A0E2A07A9C0][00000A0E2A507800 50] IOS, [00000A0E2A07E700][00000A0E2A50A000 50] iPadAir2, [00000A0E2A07B440][00000A0E1EF52800 50] IPadPro, [00000A0E2A07A2C0][00000A0E2A50C800 50] iPadAir3, [00000A0E2A07E380][00000A0E2A510000 50] iPadAir4, [00000A0E2A079F40][00000A0E2A515000 50] iPadMini4, [00000A0E2A07B600][00000A0E2A517800 50] iPadMini5, [00000A0E2A07CCC0][00000A0E2A51A000 50] iPadMini6, [00000A0E2A582300][00000A0E2A5B0000 50] iPhone6S, [00000A0E2A582680][00000A0E2A5B2800 50] iPhone7, [00000A0E2A582A00][00000A0E2A5B5000 50] iPodTouch7, [00000A0E2A582140][00000A0E2A5BA000 50] iPhone6SPlus, [00000A0E2A581F80][00000A0E2A5BC800 50] iPhone7Plus, [00000A0E2A581DC0][00000A0E2A502800 50] iPhoneSE, [00000A0E2A581C00][00000A0E2A51C800 50] iPhone8, [00000A0E2A581A40][00000A0E2A5B7800 50] iPhone8Plus, [00000A0E2A581880][00000A0E2A5C0000 50] iPhoneX, [00000A0E2A5816C0][00000A0E2A5C5000 50] iPhoneXS, [00000A0E2A582F40][00000A0E2A5C7800 50] iPhoneXSMax, [00000A0E2A580C40][00000A0E2A5CA000 50] iPhoneXR, [00000A0E2A582BC0][00000A0E2A5CC800 50] iPhone11, [00000A0E2A583100][00000A0E2A512800 50] iPhone11Pro, [00000A0E2A581500][00000A0E2A590000 50] iPhone11ProMax, [00000A0E2A581180][00000A0E2A595000 50] iPhoneSE2, [00000A0E2A5832C0][00000A0E2A597800 50] iPhone12Mini, [00000A0E2A580A80][00000A0E2A59A000 50] iPhone12, [00000A0E2A5808C0][00000A0E2A59C800 50] iPhone12Pro, [00000A0E2A583F00][00000A0E2A5C2800 50] iPhone12ProMax, [00000A0E2A580380][00000A0E2A5A0000 50] iPhone13Mini, [00000A0E2A583B80][00000A0E2A5A5000 50] iPhone13, [00000A0E2A5840C0][00000A0E2A5A7800 50] iPhone13Pro, [00000A0E2A583480][00000A0E2A5AA000 50] iPhone13ProMax, [00000A0E2A580700][00000A0E2A5AC800 50] iPadPro105, [00000A0E2A584280][00000A0E2A592800 50] iPadPro129, [00000A0E2A580540][00000A0E2A530000 50] iPadPro97, [00000A0E2A580000][00000A0E2A535000 50] iPadPro2_129, [00000A0E2A584EC0][00000A0E2A537800 50] iPad5, [00000A0E2A583640][00000A0E2A53A000 50] iPad6, [00000A0E2A584B40][00000A0E2A53C800 50] iPad7, [00000A0E2A585080][00000A0E2A5A2800 50] iPad8, [00000A0E2A584440][00000A0E2A540000 50] iPad9, [00000A0E2A581340][00000A0E2A545000 50] iPadPro11, [00000A0E2A585240][00000A0E2A547800 50] iPadPro2_11, [00000A0E2A582840][00000A0E2A54A000 50] iPadPro3_11, [00000A0E2A5839C0][00000A0E2A54C800 50] iPadPro3_129, [00000A0E2A585E80][00000A0E2A532800 50] iPadPro4_129, [00000A0E2A584600][00000A0E2A550000 50] iPadPro5_129, [00000A0E2A585B00][00000A0E2A555000 50] AppleTV, [00000A0E2A586040][00000A0E2A557800 50] AppleTV4K, [00000A0E2A585400][00000A0E2A55A000 50] TVOS, [00000A0E2A588C00][00000A0E2A542800 50] Mac, [00000A0E2A588F80][00000A0E2A55C800 50] MacEditor, [00000A0E2A588180][00000A0E2A560000 50] MacClient, [00000A0E2A585780][00000A0E2A565000 50] MacServer, [00000A0E2A589140][00000A0E2A56A000 50] Linux, [00000A0E2A586740][00000A0E2A567800 50] LinuxEditor, [00000A0E2A587A80][00000A0E2A56C800 50] LinuxArm64Editor, [00000A0E2A587FC0][00000A0E2A552800 50] LinuxArm64, [00000A0E2A586E40][00000A0E2A570000 50] LinuxClient, [00000A0E2A586200][00000A0E2A575000 50] LinuxArm64Client, [00000A0E2A587000][00000A0E2A577800 50] LinuxServer, [00000A0E2A5824C0][00000A0E2A57A000 50] LinuxArm64Server, [00000A0E2A588340][00000A0E2A57C800 50] Android, [00000A0E2A5801C0][00000A0E2A562800 50] Android_Preview_OpenGL, [00000A0E2A588DC0][00000A0E2A5F0000 50] Android_Preview_Vulkan, [00000A0E2A5878C0][00000A0E2A5F5000 50] Android_Low, [00000A0E2A587C40][00000A0E2A5F7800 50] Android_Mid, [00000A0E2A5847C0][00000A0E2A5FA000 50] Android_High, [00000A0E2A586900][00000A0E2A5FC800 50] Android_Default, [00000A0E2A585940][00000A0E2A572800 50] Android_Adreno4xx, [00000A0E2A588880][00000A0E2A600000 50] Android_Adreno5xx_Low, [00000A0E2A5894C0][00000A0E2A605000 50] Android_Adreno5xx, [00000A0E2A587E00][00000A0E2A607800 50] Android_Adreno6xx, [00000A0E2A580FC0][00000A0E2A60A000 50] Android_Adreno6xx_Vulkan, [00000A0E2A5863C0][00000A0E2A60C800 50] Android_Adreno7xx, [00000A0E2A5886C0][00000A0E2A5F2800 50] Android_Adreno7xx_Vulkan, [00000A0E2A588A40][00000A0E2A610000 50] Android_Mali_T6xx, [00000A0E2A584D00][00000A0E2A615000 50] Android_Mali_T7xx, [00000A0E2A589300][00000A0E2A617800 50] Android_Mali_T8xx, [00000A0E2A582D80][00000A0E2A61A000 50] Android_Mali_G71, [00000A0E2A587380][00000A0E2A61C800 50] Android_Mali_G72, [00000A0E2A589D80][00000A0E2A602800 50] Android_Mali_G72_Vulkan, [00000A0E2A589840][00000A0E2A620000 50] Android_Mali_G76, [00000A0E2A587540][00000A0E2A625000 50] Android_Mali_G76_Vulkan, [00000A0E2A589F40][00000A0E2A627800 50] Android_Mali_G77, [00000A0E2A586580][00000A0E2A62A000 50] Android_Mali_G77_Vulkan, [00000A0E2A583D40][00000A0E2A62C800 50] Android_Mali_G78, [00000A0E2A58A100][00000A0E2A612800 50] Android_Mali_G78_Vulkan, [00000A0E2A589680][00000A0E2A630000 50] Android_Mali_G710, [00000A0E2A586C80][00000A0E2A635000 50] Android_Mali_G710_Vulkan, [00000A0E2A58AD40][00000A0E2A637800 50] Android_Xclipse_920, [00000A0E2A586AC0][00000A0E2A63A000 50] Android_Xclipse_920_Vulkan, [00000A0E2A58A9C0][00000A0E2A63C800 50] Android_Vulkan_SM5, [00000A0E2A58AF00][00000A0E2A622800 50] Android_PowerVR_G6xxx, [00000A0E2A58A2C0][00000A0E2A640000 50] Android_PowerVR_GT7xxx, [00000A0E2A587700][00000A0E2A645000 50] Android_PowerVR_GE8xxx, [00000A0E2A58B0C0][00000A0E2A647800 50] Android_PowerVR_GM9xxx, [00000A0E2A5855C0][00000A0E2A64A000 50] Android_PowerVR_GM9xxx_Vulkan, [00000A0E2A58BD00][00000A0E2A64C800 50] Android_TegraK1, [00000A0E2A580E00][00000A0E2A632800 50] Android_Unknown_Vulkan, [00000A0E2A58B980][00000A0E2A650000 50] Oculus_Quest, [00000A0E2A58BEC0][00000A0E2A655000 50] Oculus_Quest2, [00000A0E2A583800][00000A0E2A657800 50] HoloLens, 
+[2022.10.24-13.57.25:916][  0]LogCsvProfiler: Display: Metadata set : deviceprofile="WindowsEditor"
+[2022.10.24-13.57.25:960][  0]LogTexture: Display: Oodle Texture Encode Speed settings: Fast: RDO Off Lambda=0, Effort=Normal Final: RDO Off Lambda=0, Effort=Normal
+[2022.10.24-13.57.26:177][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2022.10.24-13.57.26:177][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2022.10.24-13.57.26:177][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2022.10.24-13.57.26:177][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2022.10.24-13.57.26:177][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2022.10.24-13.57.26:200][  0]LogNetVersion: GetOutOfMyDungeon 1.0.0, NetCL: 19505902, EngineNetVer: 23, GameNetVer: 0 (Checksum: 3638673755)
+[2022.10.24-13.57.26:368][  0]LogSlate: Border
+[2022.10.24-13.57.26:368][  0]LogSlate: BreadcrumbButton
+[2022.10.24-13.57.26:368][  0]LogSlate: Default
+[2022.10.24-13.57.26:368][  0]LogSlate: Icons.Save
+[2022.10.24-13.57.26:368][  0]LogSlate: Icons.Toolbar.Settings
+[2022.10.24-13.57.26:368][  0]LogSlate: ListView
+[2022.10.24-13.57.26:368][  0]LogSlate: SoftwareCursor_CardinalCross
+[2022.10.24-13.57.26:368][  0]LogSlate: SoftwareCursor_Grab
+[2022.10.24-13.57.26:368][  0]LogSlate: TableView.DarkRow
+[2022.10.24-13.57.26:368][  0]LogSlate: TableView.Row
+[2022.10.24-13.57.26:368][  0]LogSlate: TreeView
+[2022.10.24-13.57.26:652][  0]LogTurnkeySupport: Completed SDK detection: ExitCode = 0
+[2022.10.24-13.57.26:652][  0]SourceControl: Source control is disabled
+[2022.10.24-13.57.26:687][  0]SourceControl: Source control is disabled
+[2022.10.24-13.57.26:687][  0]SourceControl: Source control is disabled
+[2022.10.24-13.57.26:822][  0]LogUObjectArray: 20557 objects as part of root set at end of initial load.
+[2022.10.24-13.57.26:822][  0]LogUObjectAllocator: 5584256 out of 0 bytes used by permanent object pool.
+[2022.10.24-13.57.26:822][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2022.10.24-13.57.26:976][  0]LogTurnkeySupport: Turnkey Platform: Android: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=r21a, MaxAllowed=r23a, Flags="Platform_InvalidHostPrerequisites", Error="Android Studio is not installed correctly.|Android SDK directory is not set correctly.")
+[2022.10.24-13.57.26:976][  0]LogTurnkeySupport: Turnkey Platform: IOS: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=1100.0.0.0, MaxAllowed=1399.0, Flags="Platform_ValidHostPrerequisites")
+[2022.10.24-13.57.26:976][  0]LogTurnkeySupport: Turnkey Platform: Linux: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.24-13.57.26:976][  0]LogTurnkeySupport: Turnkey Platform: LinuxArm64: (Status=Invalid, Installed=, AutoSDK=, MinAllowed=v10_clang-5.0.0-centos7, MaxAllowed=v20_clang-13.0.1-centos7, Flags="Platform_ValidHostPrerequisites")
+[2022.10.24-13.57.26:976][  0]LogTurnkeySupport: Turnkey Platform: Win64: (Status=Valid, Installed=10.0.18362.0, AutoSDK=, MinAllowed=10.0.00000.0, MaxAllowed=10.9.99999.0, Flags="InstalledSdk_ValidVersionExists")
+[2022.10.24-13.57.27:188][  0]LogNiagaraDebuggerClient: Niagara Debugger Client Initialized | Session: 0FA007B54AE80140EB314DABCE487DE4 | Instance: E8705B094F687FCDA9F8D09734D210BF (LAPTOP-5HR6STAG-25120).
+[2022.10.24-13.57.27:329][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2022.10.24-13.57.27:336][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2022.10.24-13.57.27:559][  0]LogPython: Using Python 3.9.7
+[2022.10.24-13.57.28:567][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:567][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.10.24-13.57.28:567][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: URL: C:\Users\fsumm\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: URL: C:\Users\fsumm\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:568][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: URL: C:\Users\fsumm\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: URL: C:\Users\fsumm\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:573][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: URL: C:\Users\fsumm\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: URL: C:\Users\fsumm\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.28:585][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.10.24-13.57.28:597][  0]LogUProjectInfo: Found projects:
+[2022.10.24-13.57.29:024][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2022.10.24-13.57.29:046][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.24-13.57.29:046][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2022.10.24-13.57.29:081][  0]LogOpenImageDenoise: OIDN starting up
+[2022.10.24-13.57.29:177][  0]LogCollectionManager: Loaded 0 collections in 0.002274 seconds
+[2022.10.24-13.57.29:271][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/Collections/' took 0.00s
+[2022.10.24-13.57.29:271][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/Developers/fsumm/Collections/' took 0.00s
+[2022.10.24-13.57.29:271][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/Collections/' took 0.00s
+[2022.10.24-13.57.29:579][  0]LogEngine: Initializing Engine...
+[2022.10.24-13.57.29:597][  0]LogStylusInput: Initializing StylusInput subsystem.
+[2022.10.24-13.57.29:598][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2022.10.24-13.57.29:860][  0]LogInit: Initializing FReadOnlyCVARCache
+[2022.10.24-13.57.29:862][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-13.57.29:878][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-13.57.29:918][  0]LogAIModule: Creating AISystem for world Untitled
+[2022.10.24-13.57.29:922][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2022.10.24-13.57.29:944][  0]LogAudio: Display: Loading Default Audio Settings Objects...
+[2022.10.24-13.57.29:945][  0]LogAudio: Display: No default SoundConcurrencyObject specified (or failed to load).
+[2022.10.24-13.57.29:945][  0]LogAudio: Display: Registering Engine Module Parameter Interfaces...
+[2022.10.24-13.57.29:946][  0]LogAudio: Display: Audio Device Manager Initialized
+[2022.10.24-13.57.29:946][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2022.10.24-13.57.29:947][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2022.10.24-13.57.29:947][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2022.10.24-13.57.29:947][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2022.10.24-13.57.29:947][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2022.10.24-13.57.29:947][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2022.10.24-13.57.29:947][  0]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2022.10.24-13.57.29:947][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2022.10.24-13.57.29:947][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2022.10.24-13.57.29:948][  0]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2022.10.24-13.57.29:948][  0]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2022.10.24-13.57.29:948][  0]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2022.10.24-13.57.29:955][  0]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2022.10.24-13.57.30:173][  0]LogAudioMixer: Display: Using Audio Hardware Device Speakers (Realtek(R) Audio)
+[2022.10.24-13.57.30:174][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2022.10.24-13.57.30:176][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2022.10.24-13.57.30:177][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2022.10.24-13.57.30:178][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=1
+[2022.10.24-13.57.30:178][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.24-13.57.30:179][  0]LogInit: FAudioDevice initialized.
+[2022.10.24-13.57.30:180][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.24-13.57.30:180][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=1
+[2022.10.24-13.57.30:180][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2022.10.24-13.57.30:180][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2022.10.24-13.57.30:180][  0]LogInit: Texture streaming: Enabled
+[2022.10.24-13.57.30:216][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 5.0.2-20280985+++UE5+Release-5.0
+[2022.10.24-13.57.30:227][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2022.10.24-13.57.30:227][  0]LogEngineSessionManager: EngineSessionManager sent abnormal shutdown report. Type=Crashed, SessionId={4494192F-4078-9931-6646-0182B71B3030}
+[2022.10.24-13.57.30:254][  0]LogCsvProfiler: Display: Metadata set : largeworldcoordinates="1"
+[2022.10.24-13.57.30:264][  0]LogLiveCoding: Display: Starting LiveCoding
+[2022.10.24-13.57.30:264][  0]LogLiveCoding: Display: LiveCodingConsole Arguments: UnrealEditor Win64 Development
+[2022.10.24-13.57.31:731][  0]LogLiveCoding: Display: First instance in process group "UE_GetOutOfMyDungeon_0xfa717812", spawning console
+[2022.10.24-13.57.31:731][  0]LogLiveCoding: Display: Waiting for server
+[2022.10.24-13.57.31:731][  0]LogLiveCoding: Display: Successfully initialized, removing startup thread
+[2022.10.24-13.57.31:762][  0]LogInit: Transaction tracking system initialized
+[2022.10.24-13.57.31:863][  0]BlueprintLog: New page: Editor Load
+[2022.10.24-13.57.32:121][  0]LocalizationService: Localization service is disabled
+[2022.10.24-13.57.32:185][  0]TimingProfiler: Initialize
+[2022.10.24-13.57.32:185][  0]TimingProfiler: OnSessionChanged
+[2022.10.24-13.57.32:186][  0]LoadingProfiler: Initialize
+[2022.10.24-13.57.32:186][  0]LoadingProfiler: OnSessionChanged
+[2022.10.24-13.57.32:187][  0]NetworkingProfiler: Initialize
+[2022.10.24-13.57.32:188][  0]NetworkingProfiler: OnSessionChanged
+[2022.10.24-13.57.32:188][  0]MemoryProfiler: Initialize
+[2022.10.24-13.57.32:188][  0]MemoryProfiler: OnSessionChanged
+[2022.10.24-13.57.32:960][  0]LogFileCache: Scanning file cache for directory 'C:/Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/' took 0.00s
+[2022.10.24-13.57.32:960][  0]LogLevelSequenceEditor: LevelSequenceEditor subsystem initialized.
+[2022.10.24-13.57.33:104][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2022.10.24-13.57.33:110][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.33:110][  0]LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: URL: C:\Users\fsumm\AppData\Local/Programs/Git/cmd/git.exe version
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: URL: C:\Users\fsumm\AppData\Local/Atlassian/SourceTree/git_local/bin/git.exe version
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2022.10.24-13.57.33:111][  0]LogWindows: Warning: URL: C:/Program Files (x86)/fournova/Tower/vendor/Git/bin/git.exe version
+[2022.10.24-13.57.33:112][  0]LogUnrealEdMisc: Loading editor; pre map load, took 13.110
+[2022.10.24-13.57.33:113][  0]Cmd: MAP LOAD FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/M_StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2022.10.24-13.57.33:114][  0]LightingResults: New page: Lighting Build
+[2022.10.24-13.57.33:125][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-13.57.33:129][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.57.33:132][  0]MapCheck: New page: Map Check
+[2022.10.24-13.57.33:132][  0]LightingResults: New page: Lighting Build
+[2022.10.24-13.57.33:148][  0]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2022.10.24-13.57.33:160][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.71ms
+[2022.10.24-13.57.33:165][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'M_StarterMap'.
+[2022.10.24-13.57.33:165][  0]LogSubsystemCollection: Failed to initialize subsystem dependency (WorldPartitionSubsystem)
+[2022.10.24-13.57.33:165][  0]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-13.57.33:165][  0]LogAIModule: Creating AISystem for world M_StarterMap
+[2022.10.24-13.57.33:172][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2022.10.24-13.57.33:182][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2022.10.24-13.57.33:183][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2022.10.24-13.57.33:183][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,385ms to complete.
+[2022.10.24-13.57.33:183][  0]LogFileHelpers: Loading map 'M_StarterMap' took 0.070
+[2022.10.24-13.57.33:217][  0]LogUnrealEdMisc: Total Editor Startup Time, took 13.215
+[2022.10.24-13.57.33:217][  0]LogShaderCompilers: Display: ================================================
+[2022.10.24-13.57.33:218][  0]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2022.10.24-13.57.33:218][  0]LogShaderCompilers: Display: Total job queries 0, among them cache hits 0 (0.00%)
+[2022.10.24-13.57.33:218][  0]LogShaderCompilers: Display: Tracking 0 distinct input hashes that result in 0 distinct outputs (0.00%)
+[2022.10.24-13.57.33:218][  0]LogShaderCompilers: Display: RAM used: 0.00 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2022.10.24-13.57.33:218][  0]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2022.10.24-13.57.33:218][  0]LogShaderCompilers: Display: Shaders Compiled: 0
+[2022.10.24-13.57.33:218][  0]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2022.10.24-13.57.33:218][  0]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2022.10.24-13.57.33:218][  0]LogShaderCompilers: Display: ================================================
+[2022.10.24-13.57.33:389][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.57.33:397][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.57.33:402][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.57.33:408][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2022.10.24-13.57.33:454][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/StarterContent.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:454][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:456][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPerson.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:456][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:458][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_FirstPersonBP.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:458][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:459][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_HandheldARBP.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:459][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:461][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPerson.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:461][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:462][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_ThirdPersonBP.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:462][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:463][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDown.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:463][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:464][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_TopDownBP.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:464][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:465][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VehicleAdvBP.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:465][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:466][  0]LogPakFile: Display: Mounted Pak file 'C:/Program Files/Epic Games/UE_5.0/FeaturePacks/TP_VirtualRealityBP.upack', mount point: 'root:/'
+[2022.10.24-13.57.33:466][  0]LogPakFile: Display: Mount point: 'root:/' is not mounted to a valid Root Path yet, assets in this pak file may not be accessible until a corresponding UFS Mount Point is added through FPackageName::RegisterMountPoint.
+[2022.10.24-13.57.33:842][  0]LogSlate: Took 0.000232 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2022.10.24-13.57.33:844][  0]LogSlate: Took 0.000164 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2022.10.24-13.57.33:847][  0]LogSlate: Took 0.000434 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2022.10.24-13.57.33:849][  0]LogSlate: Took 0.000135 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2022.10.24-13.57.33:850][  0]LogSlate: Took 0.000349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2022.10.24-13.57.33:880][  0]LogViewport: Scene viewport resized to 1055x592, mode Windowed.
+[2022.10.24-13.57.33:933][  0]LogSlate: Took 0.000487 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2022.10.24-13.57.34:320][  0]LogStall: Startup...
+[2022.10.24-13.57.34:321][  0]LogStall: Startup complete.
+[2022.10.24-13.57.34:401][  0]LogLoad: (Engine Initialization) Total time: 14.40 seconds
+[2022.10.24-13.57.34:401][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2022.10.24-13.57.34:477][  0]LogAssetRegistry: Asset discovery search completed in 9.1354 seconds
+[2022.10.24-13.57.34:488][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000121 seconds (updated 0 objects)
+[2022.10.24-13.57.34:519][  0]LogContentStreaming: Texture pool size now 400 MB
+[2022.10.24-13.58.06:038][635]LogContentBrowser: Deferred new asset file creation: NewUserDefinedStruct
+[2022.10.24-13.58.06:043][635]LogContentBrowser: Creating deferred item: NewUserDefinedStruct
+[2022.10.24-13.58.06:052][636]LogContentBrowser: Renaming the item being created (Deferred Item: NewUserDefinedStruct).
+[2022.10.24-13.58.24:273][821]LogContentBrowser: Attempting asset rename: NewUserDefinedStruct -> STRUCT_NodeLink
+[2022.10.24-13.58.24:291][821]LogContentBrowser: End creating deferred item NewUserDefinedStruct
+[2022.10.24-13.58.25:504][963]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/STRUCT_NodeLink.STRUCT_NodeLink
+[2022.10.24-13.58.36:908][302]LogSlate: Took 0.000406 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2022.10.24-13.59.22:007][574]LogSlate: Window 'STRUCT_NodeLink' being destroyed
+[2022.10.24-13.59.22:015][574]LogSlate: Window 'STRUCT_NodeLink' being destroyed
+[2022.10.24-13.59.23:176][710]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/STRUCT_NodeLink.STRUCT_NodeLink
+[2022.10.24-13.59.28:439][311]LogDerivedDataCache: C:/Users/fsumm/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:04.697 and deleted 0 file(s) with total size 0 MiB.
+[2022.10.24-13.59.29:403][423]LogSlate: Window 'STRUCT_NodeLink' being destroyed
+[2022.10.24-13.59.29:411][423]LogSlate: Window 'STRUCT_NodeLink' being destroyed
+[2022.10.24-13.59.30:409][533]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PathFindingNode.BP_PathFindingNode
+[2022.10.24-13.59.30:410][533]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-13.59.31:791][533]LogSlate: Took 0.000479 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2022.10.24-13.59.33:348][667]BlueprintLog: New page: Compile BP_PathFindingNode
+[2022.10.24-13.59.33:395][667]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2022.10.24-13.59.35:751][851]LogSlate: Window 'BP_PathFindingNode' being destroyed
+[2022.10.24-13.59.35:761][851]LogSlate: Window 'BP_PathFindingNode' being destroyed
+[2022.10.24-13.59.35:766][851]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2022.10.24-13.59.35:766][851]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2022.10.24-13.59.36:610][935]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/STRUCT_NodeLink.STRUCT_NodeLink
+[2022.10.24-14.00.14:484][111]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: MemberVar_8 String: "None"  Struct: /Game/STRUCT_NodeLink.STRUCT_NodeLink 
+[2022.10.24-14.00.14:484][111]LogBlueprint: Error: [AssetLog] /Game/STRUCT_NodeLink.STRUCT_NodeLink (no disk path found): [Compiler] Cannot parse value. Property: MemberVar_8 String: "None" 
+[2022.10.24-14.00.24:535][281]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: MemberVar_8 String: "None"  Struct: /Engine/Transient.STRUCT_REINST_STRUCT_NodeLink_20 
+[2022.10.24-14.00.24:540][281]LogClass: Warning: UUserDefinedStructEditorData::RecreateDefaultInstance Cannot parse value. Property: MemberVar_8 String: "None"  Struct: /Engine/Transient.STRUCT_REINST_STRUCT_NodeLink_21 
+[2022.10.24-14.00.28:750][729]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STRUCT_NodeLink" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/STRUCT_NodeLink.uasset" SILENT=true
+[2022.10.24-14.00.28:760][729]LogPackageLocalizationCache: Processed 30 localized package path(s) for 1 prioritized culture(s) in 0.008359 seconds
+[2022.10.24-14.00.28:766][729]LogSavePackage: Moving output files for package: /Game/STRUCT_NodeLink
+[2022.10.24-14.00.28:766][729]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/STRUCT_NodeLinkC0ECE20F405517843082B59176E8DB74.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/STRUCT_NodeLink.uasset'
+[2022.10.24-14.00.28:789][729]AssetCheck: New page: Asset Save: STRUCT_NodeLink
+[2022.10.24-14.00.28:789][729]LogContentValidation: Display: Validating UserDefinedStruct /Game/STRUCT_NodeLink.STRUCT_NodeLink
+[2022.10.24-14.00.31:846][ 83]LogSlate: Window 'STRUCT_NodeLink' being destroyed
+[2022.10.24-14.00.31:854][ 83]LogSlate: Window 'STRUCT_NodeLink' being destroyed
+[2022.10.24-14.01.04:310][952]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.01.04:311][952]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-14.01.28:609][ 36]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.01.28:657][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.24-14.01.29:225][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.01.29:231][ 81]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.01.29:232][ 81]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding34E6313E4E8CB39B35BE9B9005AA38D0.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.01.29:246][ 81]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.01.29:246][ 81]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.01.44:477][494]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.01.44:533][494]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2022.10.24-14.01.45:240][534]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.01.45:245][534]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.01.45:246][534]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingD0A817534E79DD70F89FBEB4F8FBBDB4.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.01.45:264][534]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.01.45:264][534]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.03.01:456][919]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [5000ms] waiting for h/w. InstanceID=1
+[2022.10.24-14.03.01:456][919]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=36036
+[2022.10.24-14.22.34:517][920]LogAudioMixer: Warning: FMixerNullCallback: Large time delta between simulated audio clock and realtime [-1170685ms], ThreadID=36036
+[2022.10.24-14.22.36:206][920]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=2, SampleRate=48000, DeviceID={0.0.0.00000000}.{ce8daa3d-b63d-44e7-95f2-2a68e393d131}, Name=Speakers (Realtek(R) Audio)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=1174727.75
+[2022.10.24-14.22.36:208][920]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=1
+[2022.10.24-14.22.36:232][921]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
+[2022.10.24-14.22.46:286][738]LogUObjectHash: Compacting FUObjectHashTables data took   1.35ms
+[2022.10.24-14.22.46:288][738]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/M_StarterMap' took 0.032
+[2022.10.24-14.22.46:289][738]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_PathFinding] ([2] browsable assets)...
+[2022.10.24-14.22.46:289][738]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_PathFinding]
+[2022.10.24-14.22.46:294][738]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_PathFinding_Auto1
+[2022.10.24-14.22.46:294][738]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding_Auto1A41FDAAA40D8B2EE65367291C5B6DF50.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/Autosaves/Game/BP_PathFinding_Auto1.uasset'
+[2022.10.24-14.22.46:295][738]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.10.24-14.22.55:376][799]LogHttp: Warning: 00000A0E5AA84600: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B661E64FA-47F1-6528-F9FD-22B579DCF3F0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.2-20280985%2B%2B%2BUE5%2BRelease-5.0&UserID=f649620041673d27f0b0a696f87dd28f%7C293cfa50d3aa4f8da223169438f2da91%7C1b7a1ffb-2cc0-4a48-8b43-14547d99313e&AppEnvironment=datacollector-binary&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: 00000A0E5AA84600: request failed, libcurl error: 56 (Failure when receiving data from the peer)
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: 00000A0E5AA84600: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0xa0e170d0000 [can pipeline])
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: 00000A0E5AA84600: libcurl info message cache 1 (Re-using existing connection! (#0) with host datarouter.ol.epicgames.com)
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: 00000A0E5AA84600: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (18.211.157.195) port 443 (#0))
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: 00000A0E5AA84600: libcurl info message cache 3 (We are completely uploaded and fine)
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: 00000A0E5AA84600: libcurl info message cache 4 (OpenSSL SSL_read: SSL_ERROR_SYSCALL, errno 10054)
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: 00000A0E5AA84600: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: 00000A0E5AA84600: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: 00000A0E5AA84600: libcurl info message cache 7 (Closing connection 0)
+[2022.10.24-14.22.55:377][799]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B661E64FA-47F1-6528-F9FD-22B579DCF3F0%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.0.2-20280985%2B%2B%2BUE5%2BRelease-5.0&UserID=f649620041673d27f0b0a696f87dd28f%7C293cfa50d3aa4f8da223169438f2da91%7C1b7a1ffb-2cc0-4a48-8b43-14547d99313e&AppEnvironment=datacollector-binary&UploadType=eteventstream
+[2022.10.24-14.30.28:177][176]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.30.28:238][176]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2022.10.24-14.30.28:750][208]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.30.28:760][208]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.30.28:761][208]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingC2DA74A347CFD29B44CC928C25A691B6.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.30.28:779][208]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.30.28:779][208]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.31.00:668][ 13]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.31.00:677][ 13]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.31.00:678][ 13]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding23EE3FBC47BECE35BB20F6B70573EAAE.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.31.00:696][ 13]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.31.00:696][ 13]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.31.08:317][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.31.08:326][666]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.31.08:327][666]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding835A6C8F487D2A0073640695365F7780.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.31.08:344][666]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.31.08:344][666]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.32.46:799][580]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2022.10.24-14.32.46:800][580]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/M_StarterMap' took 0.029
+[2022.10.24-14.32.46:801][580]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_PathFinding] ([2] browsable assets)...
+[2022.10.24-14.32.46:801][580]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_PathFinding]
+[2022.10.24-14.32.46:807][580]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_PathFinding_Auto2
+[2022.10.24-14.32.46:807][580]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding_Auto2A908CD8544A9CC322DCC978F0D83642E.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/Autosaves/Game/BP_PathFinding_Auto2.uasset'
+[2022.10.24-14.32.46:808][580]LogFileHelpers: Auto-saving content packages took 0.007
+[2022.10.24-14.33.33:352][506]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/STRUCT_NodeLink.STRUCT_NodeLink
+[2022.10.24-14.33.44:001][758]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STRUCT_NodeLink" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/STRUCT_NodeLink.uasset" SILENT=true
+[2022.10.24-14.33.44:002][758]LogSavePackage: Moving output files for package: /Game/STRUCT_NodeLink
+[2022.10.24-14.33.44:003][758]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/STRUCT_NodeLink198584D94C1134E7928593B1B2486648.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/STRUCT_NodeLink.uasset'
+[2022.10.24-14.33.44:016][758]AssetCheck: New page: Asset Save: STRUCT_NodeLink
+[2022.10.24-14.33.44:016][758]LogContentValidation: Display: Validating UserDefinedStruct /Game/STRUCT_NodeLink.STRUCT_NodeLink
+[2022.10.24-14.33.47:218][120]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.33.47:261][120]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.24-14.33.47:816][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.33.47:823][169]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.33.47:824][169]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding54EFAC754501914FB3A1FE9F9A0D6103.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.33.47:837][169]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.33.47:838][169]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.33.58:997][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STRUCT_NodeLink" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/STRUCT_NodeLink.uasset" SILENT=true
+[2022.10.24-14.33.58:999][400]LogSavePackage: Moving output files for package: /Game/STRUCT_NodeLink
+[2022.10.24-14.33.59:000][400]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/STRUCT_NodeLink2BDA57894D9445F34B76D4BDDBF0AFC9.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/STRUCT_NodeLink.uasset'
+[2022.10.24-14.33.59:016][400]AssetCheck: New page: Asset Save: STRUCT_NodeLink
+[2022.10.24-14.33.59:017][400]LogContentValidation: Display: Validating UserDefinedStruct /Game/STRUCT_NodeLink.STRUCT_NodeLink
+[2022.10.24-14.35.25:241][826]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.35.25:286][826]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2022.10.24-14.35.26:221][909]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.35.26:230][909]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.35.26:231][909]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding2DE1968049606E223A29DFA6B48F6891.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.35.26:243][909]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.35.26:243][909]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.36.53:559][ 77]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.36.53:617][ 77]LogUObjectHash: Compacting FUObjectHashTables data took   1.33ms
+[2022.10.24-14.36.54:097][108]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.36.54:108][108]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.36.54:109][108]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding6D97F1A447FC95E0A41105B61660529C.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.36.54:126][108]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.36.54:127][108]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.37.17:849][296]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.37.17:909][296]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.24-14.37.18:391][326]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.37.18:402][326]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.37.18:403][326]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding8389F12C4014EC6175D4908E495E63C4.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.37.18:422][326]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.37.18:422][326]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.40.28:956][268]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.40.29:002][268]LogUObjectHash: Compacting FUObjectHashTables data took   1.47ms
+[2022.10.24-14.40.30:189][333]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.40.30:198][333]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.40.30:199][333]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingA4AAB4D2444A7919EAB0D2B833EF010E.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.40.30:212][333]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.40.30:212][333]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.43.28:353][465]LogSlate: Window 'Color Picker' being destroyed
+[2022.10.24-14.43.48:324][645]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.43.48:370][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2022.10.24-14.43.48:817][666]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.43.48:827][666]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.43.48:828][666]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingDB0997CC4357611E59E6DBB4BA5C12BD.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.43.48:841][666]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.43.48:841][666]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.47.40:192][175]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2022.10.24-14.47.40:193][175]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/M_StarterMap' took 0.029
+[2022.10.24-14.47.40:193][175]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_PathFinding] ([2] browsable assets)...
+[2022.10.24-14.47.40:193][175]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_PathFinding]
+[2022.10.24-14.47.40:205][175]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_PathFinding_Auto3
+[2022.10.24-14.47.40:205][175]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding_Auto321A904964E5E975285DCA9997B84C7B8.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/Autosaves/Game/BP_PathFinding_Auto3.uasset'
+[2022.10.24-14.47.40:206][175]LogFileHelpers: Auto-saving content packages took 0.013
+[2022.10.24-14.49.38:316][857]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.49.38:369][857]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2022.10.24-14.49.38:882][883]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.49.38:895][883]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.49.38:895][883]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding2746F05D455BA6092D71FE8FD9292E70.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.49.38:911][883]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.49.38:911][883]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.50.12:088][838]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.50.12:136][838]LogUObjectHash: Compacting FUObjectHashTables data took   1.10ms
+[2022.10.24-14.50.12:628][863]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.50.12:641][863]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.50.12:642][863]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding0B51CB874E42428247C45480C1B31115.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.50.12:658][863]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.50.12:658][863]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.51.09:859][244]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.51.09:909][244]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.24-14.51.10:384][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.51.10:398][268]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.51.10:398][268]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding3F8CB2614FCE3047E5B896A21ACD9328.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.51.10:414][268]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.51.10:414][268]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.51.48:275][ 12]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.51.48:284][ 12]LogBlueprint: Error: [AssetLog] C:\Users\fsumm\Documents\GitHub\AInGames2022\GetOutOfMyDungeon\Content\BP_PathFinding.uasset: [Compiler] The current value of the ' Data Array ' pin is invalid: Array inputs (like 'Data Array') must have an input wired into them (try connecting a MakeArray node).
+[2022.10.24-14.51.48:332][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2022.10.24-14.51.48:832][ 37]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.51.48:847][ 37]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.51.48:848][ 37]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding5768C6E34220CA1637B1BF92D293BEA1.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.51.48:861][ 37]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.51.48:861][ 37]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.52.01:447][776]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.52.01:500][776]LogUObjectHash: Compacting FUObjectHashTables data took   1.29ms
+[2022.10.24-14.52.01:954][796]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.52.01:969][796]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.52.01:969][796]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding61547321408858AE9DF1909467F243C1.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.52.01:984][796]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.52.01:984][796]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.52.32:992][624]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.52.33:042][624]LogUObjectHash: Compacting FUObjectHashTables data took   0.93ms
+[2022.10.24-14.52.33:734][660]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.52.33:749][660]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.52.33:750][660]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingE6FD565D45A6F737F3265195F5A929DE.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.52.33:766][660]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.52.33:766][660]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.52.41:986][148]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/STRUCT_NodeLink" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/STRUCT_NodeLink.uasset" SILENT=true
+[2022.10.24-14.52.41:987][148]LogSavePackage: Moving output files for package: /Game/STRUCT_NodeLink
+[2022.10.24-14.52.41:988][148]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/STRUCT_NodeLink6661AD374F00D606EDBD6195A3647FAC.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/STRUCT_NodeLink.uasset'
+[2022.10.24-14.52.42:000][148]AssetCheck: New page: Asset Save: STRUCT_NodeLink
+[2022.10.24-14.52.42:000][148]LogContentValidation: Display: Validating UserDefinedStruct /Game/STRUCT_NodeLink.STRUCT_NodeLink
+[2022.10.24-14.52.43:245][222]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.52.43:250][222]LogBlueprint: Warning: [AssetLog] C:\Users\fsumm\Documents\GitHub\AInGames2022\GetOutOfMyDungeon\Content\BP_PathFinding.uasset: [Compiler] Input pin  Child  specifying non-default value no longer exists on node  Add . Please refresh node or reset pin to default value to remove pin.
+[2022.10.24-14.52.43:304][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2022.10.24-14.52.43:818][246]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.52.43:833][246]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.52.43:834][246]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding7DF053AE4AD8FF5B90D3899A3A13646F.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.52.43:849][246]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.52.43:849][246]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.52.58:302][103]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.52.58:356][103]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2022.10.24-14.53.13:741][ 22]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.53.13:794][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2022.10.24-14.53.14:282][ 46]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.53.14:299][ 46]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.53.14:300][ 46]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingB7A664EF41FFC295B376C9AA20165333.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.53.14:316][ 46]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.53.14:316][ 46]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.53.56:509][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_PathFindingNode.BP_PathFindingNode
+[2022.10.24-14.53.56:509][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.10.24-14.54.06:033][109]BlueprintLog: New page: Compile BP_PathFindingNode
+[2022.10.24-14.54.06:076][109]LogUObjectHash: Compacting FUObjectHashTables data took   1.03ms
+[2022.10.24-14.54.06:618][136]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFindingNode" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFindingNode.uasset" SILENT=true
+[2022.10.24-14.54.06:620][136]LogSavePackage: Moving output files for package: /Game/BP_PathFindingNode
+[2022.10.24-14.54.06:621][136]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingNode7ECD7C4E455AF3CB1E139E834731F94B.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFindingNode.uasset'
+[2022.10.24-14.54.06:634][136]AssetCheck: New page: Asset Save: BP_PathFindingNode
+[2022.10.24-14.54.06:634][136]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFindingNode.BP_PathFindingNode
+[2022.10.24-14.54.08:078][222]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.54.08:082][222]LogBlueprint: Error: [AssetLog] C:\Users\fsumm\Documents\GitHub\AInGames2022\GetOutOfMyDungeon\Content\BP_PathFinding.uasset: [Compiler] In use pin  Neighbours  no longer exists on node  Get . Please refresh node or break links to remove pin.
+[2022.10.24-14.54.08:139][222]LogUObjectHash: Compacting FUObjectHashTables data took   1.25ms
+[2022.10.24-14.54.08:651][247]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.54.08:666][247]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.54.08:666][247]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding521CC4CB4E43790ED96C2ABDCDFB1A55.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.54.08:683][247]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.54.08:683][247]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.54.21:351][987]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.54.21:410][987]LogUObjectHash: Compacting FUObjectHashTables data took   1.00ms
+[2022.10.24-14.54.21:974][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.54.21:989][ 15]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.54.21:990][ 15]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingF0943F5B46DEF0D18B5E85836424E1B2.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.54.22:006][ 15]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.54.22:006][ 15]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.56.10:041][983]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.56.10:102][983]LogUObjectHash: Compacting FUObjectHashTables data took   1.27ms
+[2022.10.24-14.56.10:565][  6]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.56.10:580][  6]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.56.10:581][  6]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingBC027E044B581499546299B3CE7B4984.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.56.10:593][  6]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.56.10:593][  6]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-14.59.44:684][723]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-14.59.44:766][723]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2022.10.24-14.59.45:256][745]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-14.59.45:280][745]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-14.59.45:281][745]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding234C824D4D3EDEE8011E4591B556CB19.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-14.59.45:304][745]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-14.59.45:304][745]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-15.01.49:756][401]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-15.01.49:824][401]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2022.10.24-15.01.50:312][424]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-15.01.50:329][424]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-15.01.50:330][424]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingF4404C544C117978C2519BB11BC08B6D.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-15.01.50:347][424]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-15.01.50:347][424]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-15.02.29:172][748]LogEditorTransaction: Undo Move Node
+[2022.10.24-15.02.52:314][108]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-15.02.52:392][108]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2022.10.24-15.02.52:861][128]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-15.02.52:886][128]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-15.02.52:887][128]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFindingDDCB3E004B0EFC3879BA17922B67BC9F.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-15.02.52:910][128]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-15.02.52:910][128]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-15.06.43:535][392]LogUObjectHash: Compacting FUObjectHashTables data took   1.48ms
+[2022.10.24-15.06.43:536][392]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/M_StarterMap' took 0.036
+[2022.10.24-15.06.43:536][392]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/BP_PathFinding] ([2] browsable assets)...
+[2022.10.24-15.06.43:536][392]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_PathFinding]
+[2022.10.24-15.06.43:555][392]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP_PathFinding_Auto4
+[2022.10.24-15.06.43:555][392]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding_Auto4255C9ADC43316472682444B2F9BDB6E8.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/Autosaves/Game/BP_PathFinding_Auto4.uasset'
+[2022.10.24-15.06.43:556][392]LogFileHelpers: Auto-saving content packages took 0.020
+[2022.10.24-15.08.12:057][611]LogBlueprint: Warning: Cannot name local variable 'Goal'. The name is already used.
+[2022.10.24-15.08.15:495][812]LogBlueprint: Warning: Cannot name local variable 'Goal'. The name is already used.
+[2022.10.24-15.12.33:452][349]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-15.12.33:516][349]LogUObjectHash: Compacting FUObjectHashTables data took   1.19ms
+[2022.10.24-15.12.44:464][989]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-15.12.44:522][989]LogUObjectHash: Compacting FUObjectHashTables data took   1.37ms
+[2022.10.24-15.12.45:179][ 21]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-15.12.45:201][ 21]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-15.12.45:201][ 21]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding99F0CCC949B01767DB08579EDE9DE504.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-15.12.45:220][ 21]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-15.12.45:221][ 21]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-15.15.42:281][475]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-15.15.42:347][475]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2022.10.24-15.15.43:264][523]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-15.15.43:289][523]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-15.15.43:290][523]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding1358C906409FDEFC33AB35A8A94356F7.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-15.15.43:308][523]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-15.15.43:308][523]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-15.18.12:490][179]BlueprintLog: New page: Compile BP_PathFinding
+[2022.10.24-15.18.12:556][179]LogUObjectHash: Compacting FUObjectHashTables data took   1.06ms
+[2022.10.24-15.18.12:938][194]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_PathFinding" FILE="../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset" SILENT=true
+[2022.10.24-15.18.12:961][194]LogSavePackage: Moving output files for package: /Game/BP_PathFinding
+[2022.10.24-15.18.12:962][194]LogSavePackage: Moving '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Saved/BP_PathFinding06CE318540A0408F33E8859A18701F85.tmp' to '../../../../../../Users/fsumm/Documents/GitHub/AInGames2022/GetOutOfMyDungeon/Content/BP_PathFinding.uasset'
+[2022.10.24-15.18.12:981][194]AssetCheck: New page: Asset Save: BP_PathFinding
+[2022.10.24-15.18.12:981][194]LogContentValidation: Display: Validating Blueprint /Game/BP_PathFinding.BP_PathFinding
+[2022.10.24-15.18.20:786][661]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2022.10.24-15.18.21:174][661]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.389 s
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: === Handled ensure: ===
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: 
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: Ensure condition failed: !bGraphDataInvalid [File:D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp] [Line: 858]
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: The Graph Pin Object has been invalidated. Someone is keeping a hard ref on the SGraphPin (SGraphPinKnot [SGraphNodeKnot.cpp(406)]). See InvalidateGraphData for more info
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: Stack: 
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: [Callstack] 0x00007fff71de59ab UnrealEditor-GraphEditor.dll!SGraphNode::FindWidgetForPin() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphNode.cpp:1302]
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: [Callstack] 0x00007fff71de5093 UnrealEditor-GraphEditor.dll!FGraphPinHandle::FindInGraphPanel() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPin.cpp:61]
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: [Callstack] 0x00007fff71cebd48 UnrealEditor-GraphEditor.dll!FGraphSplineOverlapResult::GetBestPinWidget() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Public\GraphSplineOverlapResult.h:67]
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: [Callstack] 0x00007fff71e1cf8c UnrealEditor-GraphEditor.dll!SGraphPanel::OnSplineHoverStateChanged() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:508]
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: [Callstack] 0x00007fff71e1af5d UnrealEditor-GraphEditor.dll!SGraphPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Editor\GraphEditor\Private\SGraphPanel.cpp:463]
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: [Callstack] 0x00007fffad734565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:174][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd25617f UnrealEditor-Slate.dll!SBox::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBox.cpp:293]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd255fe0 UnrealEditor-Slate.dll!SBorder::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:129]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad734565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad73470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd2d53bc UnrealEditor-Slate.dll!SSplitter::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:254]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd2d53bc UnrealEditor-Slate.dll!SSplitter::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:254]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad73470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad734565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad73470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd255fe0 UnrealEditor-Slate.dll!SBorder::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SBorder.cpp:129]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad734565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad73470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd2d53bc UnrealEditor-Slate.dll!SSplitter::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Widgets\Layout\SSplitter.cpp:254]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad73470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad734565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad73470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738569 UnrealEditor-SlateCore.dll!SPanel::PaintArrangedChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:31]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad73470b UnrealEditor-SlateCore.dll!SPanel::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SPanel.cpp:12]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad734565 UnrealEditor-SlateCore.dll!SOverlay::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SOverlay.cpp:200]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7339cd UnrealEditor-SlateCore.dll!SCompoundWidget::OnPaint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SCompoundWidget.cpp:46]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad7378e5 UnrealEditor-SlateCore.dll!SWidget::Paint() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWidget.cpp:1543]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738684 UnrealEditor-SlateCore.dll!SWindow::PaintSlowPath() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2073]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad5dce1a UnrealEditor-SlateCore.dll!FSlateInvalidationRoot::PaintInvalidationRoot() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\FastUpdate\SlateInvalidationRoot.cpp:399]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffad738945 UnrealEditor-SlateCore.dll!SWindow::PaintWindow() [D:\build\++UE5\Sync\Engine\Source\Runtime\SlateCore\Private\Widgets\SWindow.cpp:2105]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd00904e UnrealEditor-Slate.dll!FSlateApplication::DrawWindowAndChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1106]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd0094ca UnrealEditor-Slate.dll!FSlateApplication::DrawWindowAndChildren() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1158]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd034787 UnrealEditor-Slate.dll!FSlateApplication::PrivateDrawWindows() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1338]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd009b14 UnrealEditor-Slate.dll!FSlateApplication::DrawWindows() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1060]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd05af99 UnrealEditor-Slate.dll!FSlateApplication::TickAndDrawWidgets() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1625]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007fffdd05a728 UnrealEditor-Slate.dll!FSlateApplication::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Slate\Private\Framework\Application\SlateApplication.cpp:1482]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007ff7183a8e7d UnrealEditor.exe!FEngineLoop::Tick() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\LaunchEngineLoop.cpp:5325]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007ff7183c0d9c UnrealEditor.exe!GuardedMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Launch.cpp:183]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007ff7183c0e8a UnrealEditor.exe!GuardedMainWrapper() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:147]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007ff7183c3c4d UnrealEditor.exe!LaunchWindowsStartup() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:283]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007ff7183d5564 UnrealEditor.exe!WinMain() [D:\build\++UE5\Sync\Engine\Source\Runtime\Launch\Private\Windows\LaunchWindows.cpp:330]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007ff7183d8736 UnrealEditor.exe!__scrt_common_main_seh() [d:\a01\_work\6\s\src\vctools\crt\vcstartup\src\startup\exe_common.inl:288]
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007ff8823854e0 KERNEL32.DLL!UnknownFunction []
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: [Callstack] 0x00007ff883ba485b ntdll.dll!UnknownFunction []
+[2022.10.24-15.18.21:175][661]LogOutputDevice: Error: 
