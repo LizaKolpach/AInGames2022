@@ -579,3 +579,8 @@ GetOutOfMyDungeon/Saved/AutoScreenshot.png
 GetOutOfMyDungeon/Saved/Config/WindowsEditor/Editor.ini
 GetOutOfMyDungeon/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
 GetOutOfMyDungeon/Saved/Logs/GetOutOfMyDungeon.log
+*.log
+*.log
+*.ini
+*.png
+*.bin
